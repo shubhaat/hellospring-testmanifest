@@ -1,0 +1,6 @@
+---
+applications:
+- name: hellospring-shubha
+  memory: 1G
+  buildpack: java_buildpack
+  path: build/libs/gs-spring-boot-0.1.0.jar
